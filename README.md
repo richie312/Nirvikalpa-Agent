@@ -4,20 +4,27 @@
 
 Nirvikalpa Agent is a self-hosted, Docker-native autonomous AI platform for software generation, evaluation loops, and MLOps experimentation.
 
-It provides a complete local alternative to cloud-hosted LLM services by combining:
+🔥 Key Features
 
-multi-agent planning and execution
+🧠 Multi-agent decomposition & repair loops
 
-sandboxed code runners
+🐳 Docker-native deployment
 
-local open-source models
+🔐 Sandboxed code execution
 
-retrieval-augmented generation (RAG)
+📊 Observability-first design
 
-observability and metrics
+📚 RAG pipelines for repo-scale reasoning
 
-evaluation harnesses
+🧪 Prompt regression testing
 
-reproducible Docker deployments
+📦 Model benchmarking & versioning
 
-Built for engineers who want full control over models, data, and execution.
+⚙️ CPU-friendly laptop configs (Scalable to Cloud GPUs/CPU)
+
+🔁 Hybrid local/cloud backends
+
+
+================================================================================
+
+
